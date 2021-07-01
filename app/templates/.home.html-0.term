@@ -1,0 +1,36 @@
+(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ conda de3[Kactivate
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ python3 main.py
+python3: can't open file 'main.py': [Errno 2] No such file or directory
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ cd
+]0;~[01;34m~[00m$ cdpython3 main.py
+python3: can't open file 'main.py': [Errno 2] No such file or directory
+]0;~[01;34m~[00m$ ls
+Miniconda3-latest-Linux-x86_64.sh  [0m[01;34mdarknet[0m  [01;34minstructor[0m  [01;34mlectures[0m  [01;34mminiconda3[0m  [01;34mproject[0m  [01;34mstudents[0m  terminal.term
+]0;~[01;34m~[00m$ cd project
+]0;~/project[01;34m~/project[00m$ ls
+[0m[01;31m2021-06-23-231020.zip[0m  ai2.py                     corn.csv                             [01;35mmonkey.jpg[0m                             split_data.ipynb    yolo-obj.cfg
+[01;31m2021-06-28-113436.zip[0m  [01;34mcheck[0m                      [01;34mdata_for_train[0m                       [01;35mnormalized_confusion_matrix.jpg[0m        [01;34mtest_images[0m         yolo-obj_final.weights
+[01;31m2021-06-28-114605.zip[0m  [01;35mcheckxylinx_9999999.jpg[0m    dataprep.properties                  [01;35mnormalized_confusion_matrix_rich.jpg[0m   [01;34mtrain_images[0m        yolo-obj_last.weights
+[01;31m2021-06-28-114816.zip[0m  [01;35mconfusion_matrix.jpg[0m       evaluating_model.ipynb               obj.names                              [01;34mvalid_images[0m
+[01;34m__pycache__[0m            [01;35mconfusion_matrix_rich.jpg[0m  evaluating_model_solutions.ipynb     picture.txt                            xylinx_9999999
+ai.py                  [01;34mcorn-disease-detector[0m      export-2021-06-21T21_15_14.282Z.csv  prep_lblbx_labels_frame-current.ipynb  [01;35mxylinx_9999999.jpg[0m
+]0;~/project[01;34m~/project[00m$ ls
+[0m[01;31m2021-06-23-231020.zip[0m  ai2.py                     corn.csv                             [01;35mmonkey.jpg[0m                             split_data.ipynb    yolo-obj.cfg
+[01;31m2021-06-28-113436.zip[0m  [01;34mcheck[0m                      [01;34mdata_for_train[0m                       [01;35mnormalized_confusion_matrix.jpg[0m        [01;34mtest_images[0m         yolo-obj_final.weights
+[01;31m2021-06-28-114605.zip[0m  [01;35mcheckxylinx_9999999.jpg[0m    dataprep.properties                  [01;35mnormalized_confusion_matrix_rich.jpg[0m   [01;34mtrain_images[0m        yolo-obj_last.weights
+[01;31m2021-06-28-114816.zip[0m  [01;35mconfusion_matrix.jpg[0m       evaluating_model.ipynb               obj.names                              [01;34mvalid_images[0m
+[01;34m__pycache__[0m            [01;35mconfusion_matrix_rich.jpg[0m  evaluating_model_solutions.ipynb     picture.txt                            xylinx_9999999
+ai.py                  [01;34mcorn-disease-detector[0m      export-2021-06-21T21_15_14.282Z.csv  prep_lblbx_labels_frame-current.ipynb  [01;35mxylinx_9999999.jpg[0m
+]0;~/project[01;34m~/project[00m$ lscd projectls[Kpython3 main.py
+python3: can't open file 'main.py': [Errno 2] No such file or directory
+]0;~/project[01;34m~/project[00m$ cd corn-disease-detector/
+]0;~/project/corn-disease-detector[01;34m~/project/corn-disease-detector[00m$ ls
+Dockerfile  README.md  [0m[01;34mapp[0m
+]0;~/project/corn-disease-detector[01;34m~/project/corn-disease-detector[00m$ dc app
+bash: dc: command not found
+]0;~/project/corn-disease-detector[01;34m~/project/corn-disease-detector[00m$ cd app
+]0;~/project/corn-disease-detector/app[01;34m~/project/corn-disease-detector/app[00m$ ls
+[0m[01;34m__pycache__[0m  ai.py  ai2.py  [01;34mimages[0m  main.py  requirements.txt  [01;34mstatic[0m  [01;34mtemplates[0m  utils.py  uwsgi.ini  [01;34myolo[0m
+]0;~/project/corn-disease-detector/app[01;34m~/project/corn-disease-detector/app[00m$ cd main.py 
+bash: cd: main.py: Not a directory
+]0;~/project/corn-disease-detector/app[01;34m~/project/corn-disease-detector/app[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ 

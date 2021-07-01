@@ -1,0 +1,17 @@
+(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ conda deactivate
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ ls
+Home.html  Our-Motive.html  Our-Team.html  home.html  index.html  [0m[01;34moldstuff[0m  results.html
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ py[Kython3 Home.html
+  File "Home.html", line 1
+    <!DOCTYPE html>
+    ^
+SyntaxError: invalid syntax
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ (base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ [K(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ conda edactivate
+
+CommandNotFoundError: No command 'conda edactivate'.
+Did you mean 'conda deactivate'?
+
+(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ conda deactivate\
+> ^C
+(base) ]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ conda deactivate
+]0;~/project/corn-disease-detector/app/templates[01;34m~/project/corn-disease-detector/app/templates[00m$ 
